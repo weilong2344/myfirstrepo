@@ -1,0 +1,48 @@
+# Node.js dependencies
+node_modules/
+
+# Log files
+*.log
+
+# Environment files
+.env
+
+# Build output
+dist/
+build/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# IDE/editor directories and files
+.vscode/
+.idea/
+*.iml
+
+# npm/Yarn lock files (usually you want to track these, but if you don't)
+# package-lock.json
+# yarn.lock
+
+# Bower dependencies
+bower_components/
+
+# Coverage reports
+coverage/
+
+# Compiled source code
+*.class
+*.pyc
+*.pyo
+*.pyd
+
+# Other system or tool-specific files
+.npmrc
+.yarnrc
+
+# Temporary files
+*.swp
+*.swo
+
+
